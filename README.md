@@ -78,7 +78,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila3 PC2:
 
 
-#### AlumneFila3 PC3:
+#### AlumneFila3 PC3: En la tarea he repasado todo lo dado hasta ahora en git, muy buena tarea.
 
 
 #### AlumneFila3 PC4:
